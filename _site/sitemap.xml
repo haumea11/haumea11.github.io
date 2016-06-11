@@ -7,6 +7,9 @@
 <loc>http://haumea11.github.io/about/</loc>
 </url>
 <url>
+<loc>http://haumea11.github.io/posts/hello-post/</loc>
+</url>
+<url>
 <loc>http://haumea11.github.io/tags/</loc>
 </url>
 <url>
@@ -20,5 +23,8 @@
 </url>
 <url>
 <loc>http://haumea11.github.io/posts/</loc>
+</url>
+<url>
+<loc>http://haumea11.github.io/posts/testpost/</loc>
 </url>
 </urlset>
