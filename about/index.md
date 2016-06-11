@@ -8,11 +8,11 @@ date: 2016-03-21
 <center><a href="http://haumea11.github.io/"><b>John Markiewicz</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
+* Minimal, you can focus on your minimums
+* Responsorial
+* Discus integration
+* SynTeX highlighting
+* Optianal post image
 * Social icons
 * Page for sharing projects
 * Optional background image
