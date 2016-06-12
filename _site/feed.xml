@@ -5,9 +5,31 @@
     <description>Code, mainly lisp.  Music, mainly singing.</description>
     <link>http://haumea11.github.io/</link>
     <atom:link href="http://haumea11.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jun 2016 15:02:17 -0400</pubDate>
-    <lastBuildDate>Sun, 12 Jun 2016 15:02:17 -0400</lastBuildDate>
+    <pubDate>Sun, 12 Jun 2016 15:06:33 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Jun 2016 15:06:33 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Notable Emacs Features</title>
+        <description>&lt;p&gt;Hey all,&lt;/p&gt;
+
+&lt;p&gt;This is an attempt to make a post about my emacs setup and why I (a
+vim guy) now use emacs.  Has that been done before, by someone much
+better with emacs than I am in a talk format?  Yes, but ignore that
+for a second.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-why-emacs&quot;&gt;First, why emacs?&lt;/h2&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://haumea11.github.io/notable-emacs-features/</link>
+        <guid isPermaLink="true">http://haumea11.github.io/notable-emacs-features/</guid>
+        
+        <category>emacs</category>
+        
+        <category>tech</category>
+        
+        
+      </item>
     
       <item>
         <title>Notable Emacs Features</title>
