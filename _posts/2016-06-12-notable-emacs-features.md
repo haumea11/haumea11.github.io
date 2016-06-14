@@ -15,8 +15,13 @@ This is an attempt to make a post about my emacs setup and why I (a
 vim guy) now use emacs.  Has that been done before, by someone much
 better with emacs than I am in a talk format?  Yes, but ignore that
 for a second.  As someone who really does think emacs-style chording
+<<<<<<< HEAD
 isn't good for editing (and prefers modal editing à la vim) I still
 think there's potential in the "editor" we call emacs.
+=======
+isn't pleasant (and prefers modal editing à la vim) I still think
+there's potential in the "editor" we call emacs.
+>>>>>>> 0fdb424365437ef71f05ff3909d78f1145cb7e1f
 
 ## First, why emacs?
 
@@ -26,6 +31,7 @@ into them:
 ### Org-mode
 
 This was the first, and biggest, reason I made the jump to emacs.
+<<<<<<< HEAD
 [Org-mode][1] is an outline system, a todo-management program, a
 LaTeX-exporter, a scheduling and agenda-making utility, a spreadsheet
 editor, a blog-posting and wiki-editing utility, and likely a half
@@ -53,3 +59,10 @@ emacs and appreciate it for its impressive functionality.
 [1]: http://orgmode.org/worg/
 [2]: http://www.gigamonkeys.com/book/
 [3]: https://www.emacswiki.org/emacs/Evil
+=======
+[Org-mode](http://orgmode.org/worg/) is an outline system, a
+todo-management program, a LaTeX-exporter, a scheduling and
+agenda-making utility, a spreadsheet editor, a blog-posting and
+wiki-editing utility, and likely a half dozen other things I can't
+remember off the top of my head.
+>>>>>>> 0fdb424365437ef71f05ff3909d78f1145cb7e1f

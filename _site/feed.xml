@@ -5,8 +5,13 @@
     <description>Code, mainly lisp.  Music, mainly singing.</description>
     <link>http://haumea11.github.io/</link>
     <atom:link href="http://haumea11.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Mon, 13 Jun 2016 20:20:11 -0400</pubDate>
     <lastBuildDate>Mon, 13 Jun 2016 20:20:11 -0400</lastBuildDate>
+=======
+    <pubDate>Sun, 12 Jun 2016 15:40:28 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Jun 2016 15:40:28 -0400</lastBuildDate>
+>>>>>>> 0fdb424365437ef71f05ff3909d78f1145cb7e1f
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -19,8 +24,13 @@
 vim guy) now use emacs.  Has that been done before, by someone much
 better with emacs than I am in a talk format?  Yes, but ignore that
 for a second.  As someone who really does think emacs-style chording
+<<<<<<< HEAD
 isn’t good for editing (and prefers modal editing à la vim) I still
 think there’s potential in the “editor” we call emacs.&lt;/p&gt;
+=======
+isn’t pleasant (and prefers modal editing à la vim) I still think
+there’s potential in the “editor” we call emacs.&lt;/p&gt;
+>>>>>>> 0fdb424365437ef71f05ff3909d78f1145cb7e1f
 
 &lt;h2 id=&quot;first-why-emacs&quot;&gt;First, why emacs?&lt;/h2&gt;
 
@@ -30,6 +40,7 @@ into them:&lt;/p&gt;
 &lt;h3 id=&quot;org-mode&quot;&gt;Org-mode&lt;/h3&gt;
 
 &lt;p&gt;This was the first, and biggest, reason I made the jump to emacs.
+<<<<<<< HEAD
 &lt;a href=&quot;http://orgmode.org/worg/&quot;&gt;Org-mode&lt;/a&gt; is an outline system, a todo-management program, a
 LaTeX-exporter, a scheduling and agenda-making utility, a spreadsheet
 editor, a blog-posting and wiki-editing utility, and likely a half
@@ -54,6 +65,13 @@ functionality emulator that manages to avoid clashing much with emacs’
 standard features.  Using this, I’ve found it fairly easy to adjust to
 emacs and appreciate it for its impressive functionality.&lt;/p&gt;
 
+=======
+&lt;a href=&quot;http://orgmode.org/worg/&quot;&gt;Org-mode&lt;/a&gt; is an outline system, a
+todo-management program, a LaTeX-exporter, a scheduling and
+agenda-making utility, a spreadsheet editor, a blog-posting and
+wiki-editing utility, and likely a half dozen other things I can’t
+remember off the top of my head.&lt;/p&gt;
+>>>>>>> 0fdb424365437ef71f05ff3909d78f1145cb7e1f
 </description>
         <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://haumea11.github.io/notable-emacs-features/</link>
