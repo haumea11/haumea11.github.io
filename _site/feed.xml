@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDT</title>
+    <description>Code, mainly lisp.  Music, mainly singing.</description>
+    <link>http://haumea11.github.io/</link>
+    <atom:link href="http://haumea11.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Jun 2016 20:20:11 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2016 20:20:11 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Notable Emacs Features</title>
+        <description>&lt;h2 id=&quot;an-introduction&quot;&gt;An introduction&lt;/h2&gt;
+
+&lt;p&gt;Hey all,&lt;/p&gt;
+
+&lt;p&gt;This is an attempt to make a post about my emacs setup and why I (a
+vim guy) now use emacs.  Has that been done before, by someone much
+better with emacs than I am in a talk format?  Yes, but ignore that
+for a second.  As someone who really does think emacs-style chording
+isn’t good for editing (and prefers modal editing à la vim) I still
+think there’s potential in the “editor” we call emacs.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-why-emacs&quot;&gt;First, why emacs?&lt;/h2&gt;
+
+&lt;p&gt;So, my real reasons for switching to emacs were twofold.  Let’s look
+into them:&lt;/p&gt;
+
+&lt;h3 id=&quot;org-mode&quot;&gt;Org-mode&lt;/h3&gt;
+
+&lt;p&gt;This was the first, and biggest, reason I made the jump to emacs.
+&lt;a href=&quot;http://orgmode.org/worg/&quot;&gt;Org-mode&lt;/a&gt; is an outline system, a todo-management program, a
+LaTeX-exporter, a scheduling and agenda-making utility, a spreadsheet
+editor, a blog-posting and wiki-editing utility, and likely a half
+dozen other things I can’t remember off the top of my head.&lt;/p&gt;
+
+&lt;h3 id=&quot;lisp-interaction&quot;&gt;Lisp interaction&lt;/h3&gt;
+
+&lt;p&gt;This came about more recently, and has been an interesting experience.
+I’ve been writing a bit of Common Lisp lately (in the process of
+working through [Practical Common Lisp]) which has led me to emacs as
+the code editor of choice.  The options aren’t terribly numerous for a
+good lisp development environment, where the REPL and the editor are
+integrated.  Using my previous love, vim, to edit Lisp seemed like the
+support was… weaker, and clumsier.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-how&quot;&gt;So, how?&lt;/h2&gt;
+
+&lt;p&gt;Well, it’s been a fun transition.  Since I come from vim, the biggest
+help for me has been &lt;a href=&quot;https://www.emacswiki.org/emacs/Evil&quot;&gt;evil-mode&lt;/a&gt;.  Evil is a very good (from an
+admittedly not-terribly-experienced-with-vim perspective) vi
+functionality emulator that manages to avoid clashing much with emacs’
+standard features.  Using this, I’ve found it fairly easy to adjust to
+emacs and appreciate it for its impressive functionality.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
+        <link>http://haumea11.github.io/notable-emacs-features/</link>
+        <guid isPermaLink="true">http://haumea11.github.io/notable-emacs-features/</guid>
+        
+        <category>emacs</category>
+        
+        <category>tech</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
